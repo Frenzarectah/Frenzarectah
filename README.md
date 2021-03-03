@@ -1,16 +1,21 @@
-### Hi there 👋
+.::WHO AM I::.
+Hi at ALL!
+My name is Frenz and i'm an italian boy which is in a continuos and constant growing in web developing (:
+As the most of You I think.
+Unfortunately, web is not my job (yet),actually I'm an electronic technicial but web and technology are my passions.
+Nowadays, i'm working on myself and improving my skills, then there are not big projects or works, just trying to create my 
+portfolio on my own :)
+Hoping to make a good work and be soon a functional part of this community!
+Feel free to contact me for anything stuffs!
 
-<!--
-**Frenzarectah/Frenzarectah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.:My learning goals:.
+// HTML
+// CSS3
+// WORDPRESS
+// BOOTSTRAP
+// JAVASCRIPT 
+// JQUERY
+// PROCEDURAL PHP (not framework :\ )
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
