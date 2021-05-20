@@ -6,7 +6,7 @@ Unfortunately, web is not (yet) my job, actually I'm an electronic technicial bu
 Nowadays, i'm working on myself and improving my skills, so there are not big projects or works, just trying to create my<br/> 
 portfolio on my own :)<br/>
 Hoping to make a good work and be soon a functional part of this community!<br/>
-Feel free to contact me for anything stuffs! </br>
+Feel free to contact me for any stuffs! </br>
 
 .:My learning goals:.<br/>
 // HTML <br/>
