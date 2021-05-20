@@ -1,4 +1,4 @@
-.::WHO AM I::. <br/>
+<b>.::WHO AM I::.</b> <br/>
 Hi at ALL! <br/>
 My name is Frenz and i'm an italian boy which is in a continuos and constant growing in web developing (: <br/>
 As the most of You I guess. <br/>
@@ -8,7 +8,7 @@ portfolio on my own :)<br/>
 Hoping to make a good work and be soon a functional part of this community!<br/>
 Feel free to contact me for any stuffs! </br>
 
-.:My learning goals:.<br/>
+<b>.:My learning goals:.</b><br/>
 // HTML <br/>
 // CSS3<br/>
 // WORDPRESS<br/>
@@ -17,5 +17,5 @@ Feel free to contact me for any stuffs! </br>
 // JQUERY<br/>
 // PROCEDURAL PHP (not framework :\ )<br/>
 
-Stay tuned! 
+<b>Stay tuned!</b> 
 
