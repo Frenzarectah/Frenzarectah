@@ -6,6 +6,8 @@ Unfortunately, web is not (yet) my job, actually I'm an electronic technicial bu
 Nowadays, i'm working on myself and improving my skills, so there are not big projects or works, just trying to create my<br/> 
 portfolio on my own :)<br/>
 Hoping to make a good work and be soon a functional part of this community!<br/>
+I would like to work as a #frontend developer, my dream is working in a little startup with the possibility to create my own career and to grow<br>
+with my company :)<br>
 Feel free to contact me for any stuffs! </br>
 
 <b>.:My learning goals:.</b><br/>
