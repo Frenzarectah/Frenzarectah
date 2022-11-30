@@ -17,14 +17,6 @@ with my company :)<br>
   <li>JQUERY</li>
   <li>WORDPRESS</li>
 </ul>
-<h2>#Learning Goals</h2>
-<ul>
-  <li>IMPROVING</li>
-  <li>CONSTANTLY</li>
-  <li>EVERYTHING</li>
-  <li>I</li>
-  <li>LOVE</li>
-</ul>
-
+<a href="https://www.linkedin.com/in/francesco-sorrentino-946981105/">#Linkedin Profile</a>
 <b>Stay tuned!</b> 
 
