@@ -17,6 +17,6 @@ with my company :)<br>
   <li>JQUERY</li>
   <li>WORDPRESS</li>
 </ul>
-<a href="https://www.linkedin.com/in/francesco-sorrentino-946981105/">#Linkedin Profile</a>
+<h2><a href="https://www.linkedin.com/in/francesco-sorrentino-946981105/">#Linkedin Profile</a></h2><br>
 <b>Stay tuned!</b> 
 
