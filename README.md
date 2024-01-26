@@ -3,20 +3,17 @@
 <h2>#About me</h2>
 <p>I'm an italian boy which is in a continous and constant growing in web developing (:
 As the most of You I guess. <br/>
-Unfortunately, web is not (yet) my job, actually I'm an electronic technicial but web and technology are my passions.<br/>
-Nowadays, i'm working on myself and improving my skills, so there are not big projects or works, just trying to create my<br/> 
-portfolio on my own :)<br/>
-Hoping to make a good work and be soon a functional part of this community!<br/>
-I would like to work as a #frontend developer, my dream is working in a little startup with the possibility to create my own career and grow<br>
-with my company :)<br>
+I worked in the electronic industry from about ten years, but, finally, in the beginning of 2023, an ecommerce company hired me as a developer ^^ .</br>
+So, now, I am one step ahead to become a Developer with the capital D.
+
 <h2>#Skills</h2>
 <ul>
   <li>HTML</li>
   <li>CSS (fav framework: TailwindCss)</li>
-  <li>JAVASCRIPT (fav library: React.js)</li>
+  <li>JAVASCRIPT (fav library: React.js,now learning: Vue.js)</li>
   <li>JQUERY</li>
-  <li>WORDPRESS</li>
+  <li>SHOPIFY API</li>
 </ul>
-<h2><a href="https://www.linkedin.com/in/francesco-sorrentino-946981105/">#Linkedin Profile</a></h2><br>
+<h2>Lets get in touch also with my <a href="https://www.linkedin.com/in/francesco-sorrentino-946981105/">#Linkedin Profile</a></h2><br>
 <b>Stay tuned!</b> 
-
+<b>Lav you all <3 </b>
