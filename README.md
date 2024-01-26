@@ -12,6 +12,7 @@ So, now, I am one step ahead to become a Developer with the capital D.
   <li>CSS (fav framework: TailwindCss)</li>
   <li>JAVASCRIPT (fav library: React.js,now learning: Vue.js)</li>
   <li>JQUERY</li>
+  <li>PHP & LUMEN FRAMEWORK</li>
   <li>SHOPIFY API</li>
 </ul>
 <h2>Lets get in touch also with my <a href="https://www.linkedin.com/in/francesco-sorrentino-946981105/">#Linkedin Profile</a></h2><br>
